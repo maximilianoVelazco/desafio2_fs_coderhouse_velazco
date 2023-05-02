@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Manzana",
+		"description": "Esta es la descripcion de una manzana",
+		"price": 400,
+		"thumbnail": "Foto de una manzana",
+		"code": 4263,
+		"stock": 83,
+		"id": 1
+	},
+	{
+		"title": "Mandarina",
+		"description": "Esta es la descripcion de una mandarina",
+		"price": 255,
+		"thumbnail": "Foto de una mandarina",
+		"code": 2059,
+		"stock": 100,
+		"id": 2
+	}
+]
